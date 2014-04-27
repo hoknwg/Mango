@@ -9,7 +9,14 @@ gem 'pg'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
+# Use Twitter bootstrap
 gem 'bootstrap-sass', '~> 3.1.1'
+
+# Use Simple Form
+gem 'simple_form'
+
+# Use Kaminari Pagination
+gem 'kaminari'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
