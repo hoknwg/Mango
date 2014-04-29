@@ -18,6 +18,9 @@ gem 'simple_form'
 # Use Kaminari Pagination
 gem 'kaminari'
 
+# Use Devise Authentication 
+gem 'devise'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
